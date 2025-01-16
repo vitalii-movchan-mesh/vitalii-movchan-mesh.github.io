@@ -3,6 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "NODVL2JY.com.meshconnect",
-    "sha256_cert_fingerprints": ["BD:03:F0:CB:EF:77:47:43:8D:34:4E:CD:E4:A4:5A:81:4F:6C:03:8C:0B:9A:B2:01:57:F5:2E:63:CE:B0:9A:66"]
+    "sha256_cert_fingerprints": ["BD:03:F0:CB:EF:77:47:43:8D:34:4E:CD:E4:A4:5A:81:4F:6C:03:8C:0B:9A:B2:01:57:F5:2E:63:CE:B0:9A:11"]
   }
 }]
