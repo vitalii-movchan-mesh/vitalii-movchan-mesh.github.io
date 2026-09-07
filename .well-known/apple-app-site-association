@@ -1,0 +1,17 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "C6WMXUCWYF.com.meshconnect.MeshPayerIOS",
+        "paths": ["*"],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Match every path on this host, mirroring the payer-android App Links host."
+          }
+        ]
+      }
+    ]
+  }
+}
