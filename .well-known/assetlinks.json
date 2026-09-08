@@ -18,4 +18,14 @@
       "0C:7B:12:6C:AD:26:53:40:20:44:2C:DF:80:E5:C8:D7:71:F6:DF:DB:8B:13:E6:FF:10:DC:C9:C0:03:82:B5:A0"
     ]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.meshconnect.payer.react",
+    "sha256_cert_fingerprints": [
+      "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+    ]
+  }
 }]
