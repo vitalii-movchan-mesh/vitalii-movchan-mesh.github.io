@@ -11,6 +11,16 @@
             "comment": "Match every path on this host, mirroring the payer-android App Links host."
           }
         ]
+      },
+      {
+        "appID": "C6WMXUCWYF.com.meshconnect.meshPayerFlutterApp",
+        "paths": ["*"],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Match every path on this host, mirroring the payer-android App Links host."
+          }
+        ]
       }
     ]
   }
